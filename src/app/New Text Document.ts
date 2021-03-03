@@ -7,7 +7,8 @@
 7
 6
 testfunction(){
-    Testing fund old;
+    Testing fund one;
+
     }
     
 
