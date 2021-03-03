@@ -7,7 +7,7 @@
 7
 6
 testfunction(){
-    cgbcg;
+    Testing fund;
     }
     
 
